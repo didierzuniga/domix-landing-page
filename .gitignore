@@ -1,0 +1,10 @@
+node_modules
+bower_components
+
+.travis.yml
+gulpfile.js
+package.json
+package-lock.json
+
+scss/
+vendor/
