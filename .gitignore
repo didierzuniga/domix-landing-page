@@ -5,6 +5,3 @@ bower_components
 gulpfile.js
 package.json
 package-lock.json
-
-#scss/
-vendor/
